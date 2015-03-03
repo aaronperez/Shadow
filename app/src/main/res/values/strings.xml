@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shadow</string>
+    <string name="gameover">Game Over</string>
+    <string name="mejor">Mejor puntuación:</string>
+    <string name="ultima">Última puntuación:</string>
+    <string name="pulse">Pulse aquí para comenzar</string>
+    <string name="continuar">Continuar</string>
+    <string name="puntuacion">Puntuación</string>
+    <string name="title_activity_game">Game</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
